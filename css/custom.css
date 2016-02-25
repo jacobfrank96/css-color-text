@@ -12,7 +12,7 @@
   }
   h1 small{
     color #333
-      font-size: .6em;
+    font-size: .6em;
 
   }
 
@@ -20,13 +20,10 @@
     font-size: 3em;
     font-family: sans-serif;
     margin-top: auto;
-    backface-visibility: #visible:
+
     color:#666;
   }
-  mark {
-    background: #ff8;
-    color: #666;
-  }
+
 
   body {
     background-color: #F30;
@@ -38,12 +35,13 @@
     color: #000;
     text-align: center;
   }
+
   a{
-    color: #222
-    text-decoration:none;
+    color: #222;
+
   }
   a:hover{
-    color: #FFF
+    color: #FFF;
     text-decoration:none;
   }
 
