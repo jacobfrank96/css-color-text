@@ -253,7 +253,7 @@ input,
 optgroup,
 select,
 textarea {
-  color: inherit; /* 1 */
+  color: inher; /* 1 */
   font: inherit; /* 2 */
   margin: 0; /* 3 */
 }
@@ -291,7 +291,7 @@ html input[type="button"], /* 1 */
 input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button; /* 2 */
-  cursor: pointer; /* 3 */
+  cursor: grabbing; /* 3 */
 }
 
 /**

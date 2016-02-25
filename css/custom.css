@@ -1,4 +1,59 @@
 * {
   box-sizing: border-box; }
 
+
 /*insert custom css below*/
+
+
+  h1 {
+    font-size: 3em;
+    font-family: cursive;
+    margin: 0.67em 0;
+  }
+  h1 small{
+    color #333
+      font-size: .6em;
+
+  }
+
+  h2{
+    font-size: 3em;
+    font-family: sans-serif;
+    margin-top: auto;
+    backface-visibility: #visible:
+    color:#666;
+  }
+  mark {
+    background: #ff8;
+    color: #666;
+  }
+
+  body {
+    background-color: #F30;
+    padding: 20px 60px;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+  }
+  a{
+    color: #222
+    text-decoration:none;
+  }
+  a:hover{
+    color: #FFF
+    text-decoration:none;
+  }
+
+  .box{
+    max-width: 600px;
+    min-height: 800px;
+    border-left: 4px solid #ccc;
+    border-right: 1px solid #ccc;
+    margin:  40 inherit;
+    padding: 1rem 2rem;
+    text-align: left;
+    background-color: #9F7;
+  }
