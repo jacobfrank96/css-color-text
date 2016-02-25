@@ -11,7 +11,7 @@
     margin: 0.67em 0;
   }
   h1 small{
-    color #333
+    color: #F43
     font-size: .6em;
 
   }
@@ -46,12 +46,13 @@
   }
 
   .box{
-    max-width: 600px;
+    width: 600px;
+    margin:20px
     min-height: 800px;
-    border-left: 4px solid #ccc;
-    border-right: 1px solid #ccc;
-    margin:  40 inherit;
-    padding: 1rem 2rem;
+    border: 4px solid #666;
+
+
+    padding:20px;
     text-align: left;
     background-color: #9F7;
   }
